@@ -1,0 +1,139 @@
+.flag{
+    margin: 30px;
+}
+
+
+.inline {
+    display: inline-block;
+}
+.twobythreehorizontal {
+    height: 200px;
+    width: 100px;
+}
+.twobythree{
+    height: 200px;
+    width: 300px; 
+}
+.square {
+    height: 200px;
+    width: 200px;
+    
+}
+.threebyfive {
+    height: 67px;
+    width: 333px;
+}
+
+.madagascar {
+    height: 100px;
+    width: 200px;
+}
+.madagascarr {
+    
+    height: 100px;
+    width: 300px;
+}
+.swizh {
+    margin: auto;
+    transform: translateY(200%);
+    height: 40px;
+    width: 100px;
+}
+.swizv {
+    margin: auto;
+    transform: translateY(-30%);
+    height: 100px;
+    width: 40px;
+}
+.sweden {
+    height: 200px;
+    width: 320px;
+    display: grid;
+    grid-template-columns: 30% auto;
+    background-color: #FFCE00;
+    grid-gap: 50px;
+}
+.gambia {
+    height: 200px;
+    width: 300px;
+    display: grid;
+    grid-template-rows: auto 25% auto;
+    background-color: white;
+    grid-gap: 15px;
+}
+.circle{
+    border-radius: 50%;
+    margin: auto;
+    transform: translateY(50%);
+    height: 50%;
+    width: 33%;
+    background-color: #ED2938;
+}
+.circle2{
+    border-radius: 50%;
+    margin: auto;
+
+    height: 60px;
+    width: 60px;
+    background-color: #ED2938;
+}
+.niger {
+    height: 200px;
+    width: 233px;
+    display: grid;
+    grid-template-rows: 33% 33% 33%;
+    background-color: white;
+
+}
+.orange {
+    background-color: #E15307;
+  }
+.item1 {
+    background-color: #E15307;
+  }
+.item2 {
+    background-color: white;
+    padding:3px;
+  }
+.item3 {
+    background-color: #10AF2A;
+  }
+
+
+.grid-item {
+    background-color:#0269A6;
+  }
+  .grid-item1 {
+    background-color: #ED2938;
+  }
+  .grid-item2 {
+    background-color: #002495;
+  }
+  .grid-item3 {
+    background-color: #007E39;
+  }
+
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.white{
+    background-color: #FFFFFF;
+}
+.blue{
+    background-color: #002495;
+}
+.red{
+    background-color: #ED2938;
+}
+.yellow{
+    background-color: #FFCE00;
+}
+.green{
+    background-color: #007E39;
+}
+.black{
+    background-color: #000000;
+}
